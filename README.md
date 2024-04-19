@@ -23,17 +23,54 @@ I'm a passionate Frontend Developer, Web Developer, and Designer with years of e
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
+
 ### My Services Include:
 
-- **Website Design**: From concept to creation, I develop visually appealing and functional websites from scratch.
-- **React Development**: Building interactive and dynamic user interfaces using React, leveraging its component-based architecture and rich ecosystem to deliver high-quality web applications.
-- **Redux Integration**: Implementing Redux for state management in React applications to efficiently manage complex application state and enhance scalability.
-- **Next.js Development**: Developing server-side rendered and statically generated React applications using Next.js, optimizing performance and SEO capabilities.
-- **React Component Libraries**: Creating custom and reusable React component libraries to streamline development and ensure consistency across projects.
-- **Responsive Web Development**: Ensuring your website looks great and functions flawlessly across all devices.
-- **CMS Customization**: Tailoring CMS platforms to meet your specific business needs and preferences.
-- **E-commerce Solutions**: Developing robust and user-friendly e-commerce websites for seamless online transactions.
-- **Website SEO**: Implementing on-page, off-page, and speed optimization techniques to boost your website's visibility and performance.
+<table>
+  <tbody>
+    <tr>
+      <td><b>Service</b></td>
+      <td><b>Description</b></td>
+    </tr>
+    <tr>
+      <td><b>Website Design</b></td>
+      <td>From concept to creation, I develop visually appealing and functional websites from scratch.</td>
+    </tr>
+    <tr>
+      <td><b>React Development</b></td>
+      <td>Building interactive and dynamic user interfaces using React, leveraging its component-based architecture and rich ecosystem to deliver high-quality web applications.</td>
+    </tr>
+    <tr>
+      <td><b>Redux Integration</b></td>
+      <td>Implementing Redux for state management in React applications to efficiently manage complex application state and enhance scalability.</td>
+    </tr>
+    <tr>
+      <td><b>Next.js Development</b></td>
+      <td>Developing server-side rendered and statically generated React applications using Next.js, optimizing performance and SEO capabilities.</td>
+    </tr>
+    <tr>
+      <td><b>React Component Libraries</b></td>
+      <td>Creating custom and reusable React component libraries to streamline development and ensure consistency across projects.</td>
+    </tr>
+    <tr>
+      <td><b>Responsive Web Development</b></td>
+      <td>Ensuring your website looks great and functions flawlessly across all devices.</td>
+    </tr>
+    <tr>
+      <td><b>CMS Customization</b></td>
+      <td>Tailoring CMS platforms to meet your specific business needs and preferences.</td>
+    </tr>
+    <tr>
+      <td><b>E-commerce Solutions</b></td>
+      <td>Developing robust and user-friendly e-commerce websites for seamless online transactions.</td>
+    </tr>
+    <tr>
+      <td><b>Website SEO</b></td>
+      <td>Implementing on-page, off-page, and speed optimization techniques to boost your website's visibility and performance.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Let's Connect!
 
