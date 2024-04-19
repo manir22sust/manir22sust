@@ -74,7 +74,7 @@ I'm a passionate Frontend Developer, Web Developer, and Designer with years of e
 
 ## Let's Connect!
 
-- [LinkedIn](#)
-- [Portfolio Website](#)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manir22sust@gmail.com)
 
 Feel free to reach out if you're looking to elevate your online presence or need assistance with web development projects. I'm here to help bring your vision to life!
